@@ -38,4 +38,4 @@ The challenge has been developed using the following technologies:
 
 ---
 
-Developed with 💙 by José Renato Montagnana
+Developed with 💙 by José Renato Montagnana 👋🏻 [Get in touch!](https://www.linkedin.com/in/joserenato-devfullstack/)
